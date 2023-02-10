@@ -30,4 +30,4 @@ Decompiling the classes can be done with this [Bytecode viewer](https://github.c
 
 and then running `java -jar Bytecode-Viewer-2.11.2.jar`
 
-![decompiled view](decompiled.jpb "Decompiled Classes")
+![decompiled view](decompiled.jpg "Decompiled Classes")
